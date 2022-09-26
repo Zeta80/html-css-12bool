@@ -1,0 +1,15 @@
+.box-blue {
+    background-color: lightblue;
+    height: 60px;
+    border: 1px solid black;
+}
+
+.box-green {
+    background-color: greenyellow;
+    border: 1px solid black;
+}
+
+.section-2,
+.section-3 {
+    margin-top: 50px;
+}
